@@ -1,0 +1,22 @@
+{
+  "name": "spiderverse",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./node_modules/jest/bin/jest.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mariel-rs/spiderverse.git"
+  },
+  "author": "mariel-rs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mariel-rs/spiderverse/issues"
+  },
+  "homepage": "https://github.com/mariel-rs/spiderverse",
+  "devDependencies": {
+    "jest": "^28.1.0"
+  }
+}
